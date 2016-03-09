@@ -1,0 +1,1720 @@
+1. Brand Name: ACYCLOVIR 200 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 30
+	Brand Medically Necessary: No
+	Generic Name: ACYCLOVIR
+
+2. Brand Name: ALBUTEROL SULFATE (2.5 MG/3ML) 0.083% INH NEBU
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALBUTEROL SULFATE
+
+3. Brand Name: ALBUTEROL SULFATE 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 90
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALBUTEROL SULFATE
+
+4. Brand Name: ALBUTEROL SULFATE 2 MG/5ML ORAL SYRP
+	Instructions: 
+	Quantity: 120 ml
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALBUTEROL SULFATE
+
+5. Brand Name: ALBUTEROL SULFATE 4 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALBUTEROL SULFATE
+
+6. Brand Name: ALLOPURINOL 100 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALLOPURINOL
+
+7. Brand Name: ALLOPURINOL 300 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ALLOPURINOL
+
+8. Brand Name: AMITRIPTYLINE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMITRIPTYLINE HCL
+
+9. Brand Name: AMITRIPTYLINE HCL 100 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMITRIPTYLINE HCL
+
+10. Brand Name: AMITRIPTYLINE HCL 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMITRIPTYLINE HCL
+
+11. Brand Name: AMITRIPTYLINE HCL 50 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMITRIPTYLINE HCL
+
+12. Brand Name: AMITRIPTYLINE HCL 75 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMITRIPTYLINE HCL
+
+13. Brand Name: AMOXICILLIN 125 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 100 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+14. Brand Name: AMOXICILLIN 125 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 150 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+15. Brand Name: AMOXICILLIN 125 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 80 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+16. Brand Name: AMOXICILLIN 200 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 100 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+17. Brand Name: AMOXICILLIN 200 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 50 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+18. Brand Name: AMOXICILLIN 200 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 75 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+19. Brand Name: AMOXICILLIN 250 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+20. Brand Name: AMOXICILLIN 250 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 100 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+21. Brand Name: AMOXICILLIN 250 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 150 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+22. Brand Name: AMOXICILLIN 250 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 80 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+23. Brand Name: AMOXICILLIN 400 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 100 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+24. Brand Name: AMOXICILLIN 400 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 50 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+25. Brand Name: AMOXICILLIN 400 MG/5ML ORAL SUSR
+	Instructions: 
+	Quantity: 75 ml
+	Refills: 0
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+26. Brand Name: AMOXICILLIN 500 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: AMOXICILLIN
+
+27. Brand Name: ANTIPYRINE-BENZOCAINE 5.4-1.4 % OTIC SOLN
+	Instructions: 
+	Quantity: 1 bottle
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ANTIPYRINE-BENZOCAINE
+
+28. Brand Name: ANTIPYRINE-BENZOCAINE 5.5-1.4 % OTIC SOLN
+	Instructions: 
+	Quantity: 1 bottle
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ANTIPYRINE-BENZOCAINE
+
+29. Brand Name: ATENOLOL 100 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ATENOLOL
+
+30. Brand Name: ATENOLOL 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ATENOLOL
+
+31. Brand Name: ATENOLOL 50 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ATENOLOL
+
+32. Brand Name: BACLOFEN 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BACLOFEN
+
+33. Brand Name: BENAZEPRIL HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENAZEPRIL HCL
+
+34. Brand Name: BENAZEPRIL HCL 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENAZEPRIL HCL
+
+35. Brand Name: BENAZEPRIL HCL 40 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENAZEPRIL HCL
+
+36. Brand Name: BENAZEPRIL HCL 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENAZEPRIL HCL
+
+37. Brand Name: BENZONATATE 100 MG ORAL CAPS
+	Instructions: 
+	Quantity: 14
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENZONATATE
+
+38. Brand Name: BENZTROPINE MESYLATE 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BENZTROPINE MESYLATE
+
+39. Brand Name: BISOPROLOL-HYDROCHLOROTHIAZIDE 10-6.25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BISOPROLOL-HYDROCHLOROTHIAZIDE
+
+40. Brand Name: BISOPROLOL-HYDROCHLOROTHIAZIDE 2.5-6.25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BISOPROLOL-HYDROCHLOROTHIAZIDE
+
+41. Brand Name: BISOPROLOL-HYDROCHLOROTHIAZIDE 5-6.25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BISOPROLOL-HYDROCHLOROTHIAZIDE
+
+42. Brand Name: BUSPIRONE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BUSPIRONE HCL
+
+43. Brand Name: BUSPIRONE HCL 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: BUSPIRONE HCL
+
+44. Brand Name: CARVEDILOL 12.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CARVEDILOL
+
+45. Brand Name: CARVEDILOL 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CARVEDILOL
+
+46. Brand Name: CARVEDILOL 3.125 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CARVEDILOL
+
+47. Brand Name: CARVEDILOL 6.25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CARVEDILOL
+
+48. Brand Name: CEPHALEXIN 250 MG ORAL CAPS
+	Instructions: 
+	Quantity: 28
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: CEPHALEXIN
+
+49. Brand Name: CEPHALEXIN 500 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: CEPHALEXIN
+
+50. Brand Name: CHLORHEXIDINE GLUCONATE 0.12 % M/T SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CHLORHEXIDINE GLUCONATE
+
+51. Brand Name: CIPROFLOXACIN HCL 250 MG ORAL TABS
+	Instructions: 
+	Quantity: 14
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: CIPROFLOXACIN HCL
+
+52. Brand Name: CIPROFLOXACIN HCL 500 MG ORAL TABS
+	Instructions: 
+	Quantity: 20
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: CIPROFLOXACIN HCL
+
+53. Brand Name: CITALOPRAM HYDROBROMIDE 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CITALOPRAM HYDROBROMIDE
+
+54. Brand Name: CITALOPRAM HYDROBROMIDE 40 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CITALOPRAM HYDROBROMIDE
+
+55. Brand Name: CLONIDINE HCL 0.1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CLONIDINE HCL
+
+56. Brand Name: CLONIDINE HCL 0.2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CLONIDINE HCL
+
+57. Brand Name: CYCLOBENZAPRINE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CYCLOBENZAPRINE HCL
+
+58. Brand Name: CYCLOBENZAPRINE HCL 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: CYCLOBENZAPRINE HCL
+
+59. Brand Name: DEXAMETHASONE 0.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DEXAMETHASONE
+
+60. Brand Name: DEXAMETHASONE 0.75 MG ORAL TABS
+	Instructions: 
+	Quantity: 12
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DEXAMETHASONE
+
+61. Brand Name: DEXAMETHASONE 4 MG ORAL TABS
+	Instructions: 
+	Quantity: 6
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DEXAMETHASONE
+
+62. Brand Name: DICLOFENAC SODIUM 75 MG ORAL TBEC
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DICLOFENAC SODIUM
+
+63. Brand Name: DICYCLOMINE HCL 10 MG ORAL CAPS
+	Instructions: 
+	Quantity: 90
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DICYCLOMINE HCL
+
+64. Brand Name: DICYCLOMINE HCL 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: DICYCLOMINE HCL
+
+65. Brand Name: ENALAPRIL-HYDROCHLOROTHIAZIDE 5-12.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ENALAPRIL-HYDROCHLOROTHIAZIDE
+
+66. Brand Name: ERYTHROMYCIN 5 MG/GM OPHTH OINT
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ERYTHROMYCIN
+
+67. Brand Name: ESTRADIOL 0.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ESTRADIOL
+
+68. Brand Name: ESTRADIOL 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ESTRADIOL
+
+69. Brand Name: ESTRADIOL 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ESTRADIOL
+
+70. Brand Name: FAMOTIDINE 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FAMOTIDINE
+
+71. Brand Name: FLUCONAZOLE 150 MG ORAL TABS
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUCONAZOLE
+
+72. Brand Name: FLUOXETINE HCL 10 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUOXETINE HCL
+
+73. Brand Name: FLUOXETINE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUOXETINE HCL
+
+74. Brand Name: FLUOXETINE HCL 20 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUOXETINE HCL
+
+75. Brand Name: FLUOXETINE HCL 40 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUOXETINE HCL
+
+76. Brand Name: FLUPHENAZINE HCL 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FLUPHENAZINE HCL
+
+77. Brand Name: FOLIC ACID 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FOLIC ACID
+
+78. Brand Name: FUROSEMIDE 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FUROSEMIDE
+
+79. Brand Name: FUROSEMIDE 40 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FUROSEMIDE
+
+80. Brand Name: FUROSEMIDE 80 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: FUROSEMIDE
+
+81. Brand Name: GENTAK 0.3 % OPHTH OINT
+	Instructions: 
+	Quantity: 5
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GENTAMICIN SULFATE
+
+82. Brand Name: GENTAMICIN SULFATE 0.1 % EXT CREA
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GENTAMICIN SULFATE
+
+83. Brand Name: GENTAMICIN SULFATE 0.1 % EXT OINT
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GENTAMICIN SULFATE
+
+84. Brand Name: GENTAMICIN SULFATE 0.3 % OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GENTAMICIN SULFATE
+
+85. Brand Name: GLIMEPIRIDE 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLIMEPIRIDE
+
+86. Brand Name: GLIMEPIRIDE 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLIMEPIRIDE
+
+87. Brand Name: GLIMEPIRIDE 4 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLIMEPIRIDE
+
+88. Brand Name: GLIPIZIDE 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLIPIZIDE
+
+89. Brand Name: GLIPIZIDE 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLIPIZIDE
+
+90. Brand Name: GLYBURIDE 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLYBURIDE
+
+91. Brand Name: GLYBURIDE 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLYBURIDE
+
+92. Brand Name: GLYBURIDE MICRONIZED 3 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLYBURIDE MICRONIZED
+
+93. Brand Name: GLYBURIDE MICRONIZED 6 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GLYBURIDE MICRONIZED
+
+94. Brand Name: GUANFACINE HCL 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: GUANFACINE HCL
+
+95. Brand Name: HALOPERIDOL 0.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HALOPERIDOL
+
+96. Brand Name: HALOPERIDOL 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HALOPERIDOL
+
+97. Brand Name: HALOPERIDOL 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HALOPERIDOL
+
+98. Brand Name: HALOPERIDOL 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HALOPERIDOL
+
+99. Brand Name: HYDRALAZINE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDRALAZINE HCL
+
+100. Brand Name: HYDRALAZINE HCL 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDRALAZINE HCL
+
+101. Brand Name: HYDROCHLOROTHIAZIDE 12.5 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDROCHLOROTHIAZIDE
+
+102. Brand Name: HYDROCHLOROTHIAZIDE 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDROCHLOROTHIAZIDE
+
+103. Brand Name: HYDROCHLOROTHIAZIDE 50 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDROCHLOROTHIAZIDE
+
+104. Brand Name: HYDROCORTISONE 1 % EXT CREA
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDROCORTISONE
+
+105. Brand Name: HYDROCORTISONE 2.5 % EXT CREA
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: HYDROCORTISONE
+
+106. Brand Name: IBUPROFEN 100 MG/5ML ORAL SUSP
+	Instructions: 
+	Quantity: 120 ml
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: IBUPROFEN
+
+107. Brand Name: IBUPROFEN 400 MG ORAL TABS
+	Instructions: 
+	Quantity: 90
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: IBUPROFEN
+
+108. Brand Name: IBUPROFEN 600 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: IBUPROFEN
+
+109. Brand Name: IBUPROFEN 800 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: IBUPROFEN
+
+110. Brand Name: INDAPAMIDE 1.25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: INDAPAMIDE
+
+111. Brand Name: INDAPAMIDE 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: INDAPAMIDE
+
+112. Brand Name: INDOMETHACIN 25 MG ORAL CAPS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: INDOMETHACIN
+
+113. Brand Name: IPRATROPIUM BROMIDE 0.02 % INH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: IPRATROPIUM BROMIDE
+
+114. Brand Name: ISONIAZID 300 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ISONIAZID
+
+115. Brand Name: ISOSORBIDE MONONITRATE ER 30 MG ORAL XR24H-TAB
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ISOSORBIDE MONONITRATE
+
+116. Brand Name: ISOSORBIDE MONONITRATE ER 60 MG ORAL XR24H-TAB
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: ISOSORBIDE MONONITRATE
+
+117. Brand Name: JANTOVEN 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+118. Brand Name: LEVOBUNOLOL HCL 0.5 % OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOBUNOLOL HCL
+
+119. Brand Name: LEVOTHYROXINE SODIUM 100 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+120. Brand Name: LEVOTHYROXINE SODIUM 112 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+121. Brand Name: LEVOTHYROXINE SODIUM 125 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+122. Brand Name: LEVOTHYROXINE SODIUM 137 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+123. Brand Name: LEVOTHYROXINE SODIUM 150 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+124. Brand Name: LEVOTHYROXINE SODIUM 175 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+125. Brand Name: LEVOTHYROXINE SODIUM 200 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+126. Brand Name: LEVOTHYROXINE SODIUM 25 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+127. Brand Name: LEVOTHYROXINE SODIUM 50 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+128. Brand Name: LEVOTHYROXINE SODIUM 75 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+129. Brand Name: LEVOTHYROXINE SODIUM 88 MCG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LEVOTHYROXINE SODIUM
+
+130. Brand Name: LIDOCAINE VISCOUS 2 % M/T SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LIDOCAINE HCL
+
+131. Brand Name: LISINOPRIL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL
+
+132. Brand Name: LISINOPRIL 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL
+
+133. Brand Name: LISINOPRIL 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL
+
+134. Brand Name: LISINOPRIL 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL
+
+135. Brand Name: LISINOPRIL-HYDROCHLOROTHIAZIDE 10-12.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL-HYDROCHLOROTHIAZIDE
+
+136. Brand Name: LISINOPRIL-HYDROCHLOROTHIAZIDE 20-12.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL-HYDROCHLOROTHIAZIDE
+
+137. Brand Name: LISINOPRIL-HYDROCHLOROTHIAZIDE 20-25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LISINOPRIL-HYDROCHLOROTHIAZIDE
+
+138. Brand Name: LITHIUM CARBONATE 300 MG ORAL CAPS
+	Instructions: 
+	Quantity: 90
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LITHIUM CARBONATE
+
+139. Brand Name: LORATADINE 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LORATADINE
+
+140. Brand Name: LOVASTATIN 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LOVASTATIN
+
+141. Brand Name: LOVASTATIN 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: LOVASTATIN
+
+142. Brand Name: MAG64 535 (64 Mg) MG ORAL CR-TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MAGNESIUM CHLORIDE
+
+143. Brand Name: MAGNESIUM OXIDE 400 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MAGNESIUM OXIDE
+
+144. Brand Name: MEDROXYPROGESTERONE ACETATE 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 10
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MEDROXYPROGESTERONE ACETATE
+
+145. Brand Name: MEDROXYPROGESTERONE ACETATE 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MEDROXYPROGESTERONE ACETATE
+
+146. Brand Name: MEDROXYPROGESTERONE ACETATE 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MEDROXYPROGESTERONE ACETATE
+
+147. Brand Name: MEGESTROL ACETATE 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MEGESTROL ACETATE
+
+148. Brand Name: MELOXICAM 15 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MELOXICAM
+
+149. Brand Name: MELOXICAM 7.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: MELOXICAM
+
+150. Brand Name: METFORMIN HCL 500 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METFORMIN HCL
+
+151. Brand Name: METFORMIN HCL 850 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METFORMIN HCL
+
+152. Brand Name: METFORMIN HCL ER (OSM) 500 MG ORAL XR24H-TAB
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METFORMIN HCL
+
+153. Brand Name: METHYLDOPA 250 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METHYLDOPA
+
+154. Brand Name: METOCLOPRAMIDE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METOCLOPRAMIDE HCL
+
+155. Brand Name: METOPROLOL TARTRATE 100 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METOPROLOL TARTRATE
+
+156. Brand Name: METOPROLOL TARTRATE 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METOPROLOL TARTRATE
+
+157. Brand Name: METOPROLOL TARTRATE 50 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: METOPROLOL TARTRATE
+
+158. Brand Name: NAPROXEN 375 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NAPROXEN
+
+159. Brand Name: NAPROXEN 500 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NAPROXEN
+
+160. Brand Name: NEOMYCIN-POLYMYXIN-DEXAMETH 0.1 % OPHTH SUSP
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NEOMYCIN-POLYMYXIN-DEXAMETH
+
+161. Brand Name: NORTRIPTYLINE HCL 10 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NORTRIPTYLINE HCL
+
+162. Brand Name: NORTRIPTYLINE HCL 25 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NORTRIPTYLINE HCL
+
+163. Brand Name: NYSTATIN 100000 UNIT/GM EXT CREA
+	Instructions: 
+	Quantity: 15 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NYSTATIN
+
+164. Brand Name: NYSTATIN 100000 UNIT/GM EXT CREA
+	Instructions: 
+	Quantity: 30 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: NYSTATIN
+
+165. Brand Name: PAROXETINE HCL 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PAROXETINE HCL
+
+166. Brand Name: PAROXETINE HCL 20 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PAROXETINE HCL
+
+167. Brand Name: PENICILLIN V POTASSIUM 125 MG/5ML ORAL SOLR
+	Instructions: 
+	Quantity: 100 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: PENICILLIN V POTASSIUM
+
+168. Brand Name: PENICILLIN V POTASSIUM 125 MG/5ML ORAL SOLR
+	Instructions: 
+	Quantity: 200 ml
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: PENICILLIN V POTASSIUM
+
+169. Brand Name: PENICILLIN V POTASSIUM 250 MG ORAL TABS
+	Instructions: 
+	Quantity: 28
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: PENICILLIN V POTASSIUM
+
+170. Brand Name: POLYMYXIN B-TRIMETHOPRIM 10000-0.1 UNIT/ML-% OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: POLYMYXIN B-TRIMETHOPRIM
+
+171. Brand Name: PREDNISONE 2.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PREDNISONE
+
+172. Brand Name: PREDNISONE 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PREDNISONE
+
+173. Brand Name: PROCHLORPERAZINE MALEATE 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PROCHLORPERAZINE MALEATE
+
+174. Brand Name: PROMETHAZINE HCL 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 12
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PROMETHAZINE HCL
+
+175. Brand Name: PROMETHAZINE HCL 6.25 MG/5ML ORAL SYRP
+	Instructions: 
+	Quantity: 180 ml
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PROMETHAZINE HCL
+
+176. Brand Name: PROMETHAZINE-DM 6.25-15 MG/5ML ORAL SYRP
+	Instructions: 
+	Quantity: 120 ml
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: PROMETHAZINE-DM
+
+177. Brand Name: RANITIDINE HCL 150 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: RANITIDINE HCL
+
+178. Brand Name: RANITIDINE HCL 300 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: RANITIDINE HCL
+
+179. Brand Name: SILVER SULFADIAZINE 1 % EXT CREA
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: SILVER SULFADIAZINE
+
+180. Brand Name: SMZ-TMP DS 800-160 MG ORAL TABS
+	Instructions: 
+	Quantity: 20
+	Refills: 0
+	Duration: 14
+	Brand Medically Necessary: No
+	Generic Name: SULFAMETHOXAZOLE-TRIMETHOPRIM
+
+181. Brand Name: SODIUM FLUORIDE 0.55 (0.25 F) MG ORAL CHEW
+	Instructions: 
+	Quantity: 120
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: SODIUM FLUORIDE
+
+182. Brand Name: SOTALOL HCL 80 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: SOTALOL HCL
+
+183. Brand Name: SPIRONOLACTONE 25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: SPIRONOLACTONE
+
+184. Brand Name: SULFACETAMIDE SODIUM 10 % OPHTH OINT
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: SULFACETAMIDE SODIUM
+
+185. Brand Name: TERAZOSIN HCL 1 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TERAZOSIN HCL
+
+186. Brand Name: TERAZOSIN HCL 10 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TERAZOSIN HCL
+
+187. Brand Name: TERAZOSIN HCL 2 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TERAZOSIN HCL
+
+188. Brand Name: TERAZOSIN HCL 5 MG ORAL CAPS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TERAZOSIN HCL
+
+189. Brand Name: TERBINAFINE HCL 250 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TERBINAFINE HCL
+
+190. Brand Name: TIMOLOL MALEATE 0.25 % OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TIMOLOL MALEATE
+
+191. Brand Name: TIMOLOL MALEATE 0.5 % OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TIMOLOL MALEATE
+
+192. Brand Name: TOBRAMYCIN 0.3 % OPHTH SOLN
+	Instructions: 
+	Quantity: 1
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TOBRAMYCIN
+
+193. Brand Name: TRAZODONE HCL 100 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRAZODONE HCL
+
+194. Brand Name: TRAZODONE HCL 150 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRAZODONE HCL
+
+195. Brand Name: TRAZODONE HCL 50 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRAZODONE HCL
+
+196. Brand Name: TRIAMCINOLONE ACETONIDE 0.025 % EXT CREA
+	Instructions: 
+	Quantity: 15 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+197. Brand Name: TRIAMCINOLONE ACETONIDE 0.025 % EXT CREA
+	Instructions: 
+	Quantity: 80 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+198. Brand Name: TRIAMCINOLONE ACETONIDE 0.1 % EXT CREA
+	Instructions: 
+	Quantity: 15 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+199. Brand Name: TRIAMCINOLONE ACETONIDE 0.1 % EXT CREA
+	Instructions: 
+	Quantity: 80 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+200. Brand Name: TRIAMCINOLONE ACETONIDE 0.1 % EXT OINT
+	Instructions: 
+	Quantity: 15 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+201. Brand Name: TRIAMCINOLONE ACETONIDE 0.1 % EXT OINT
+	Instructions: 
+	Quantity: 80 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+202. Brand Name: TRIAMCINOLONE ACETONIDE 0.5 % EXT CREA
+	Instructions: 
+	Quantity: 15 gm tube
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMCINOLONE ACETONIDE
+
+203. Brand Name: TRIAMTERENE-HCTZ 37.5-25 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMTERENE-HCTZ
+
+204. Brand Name: TRIAMTERENE-HCTZ 75-50 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIAMTERENE-HCTZ
+
+205. Brand Name: TRIHEXYPHENIDYL HCL 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 60
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: TRIHEXYPHENIDYL HCL
+
+206. Brand Name: VERAPAMIL HCL 120 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: VERAPAMIL HCL
+
+207. Brand Name: VERAPAMIL HCL 80 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: VERAPAMIL HCL
+
+208. Brand Name: WARFARIN SODIUM 1 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+209. Brand Name: WARFARIN SODIUM 10 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+210. Brand Name: WARFARIN SODIUM 2 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+211. Brand Name: WARFARIN SODIUM 3 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+212. Brand Name: WARFARIN SODIUM 4 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+213. Brand Name: WARFARIN SODIUM 5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+214. Brand Name: WARFARIN SODIUM 6 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+
+215. Brand Name: WARFARIN SODIUM 7.5 MG ORAL TABS
+	Instructions: 
+	Quantity: 30
+	Refills: 
+	Duration: 
+	Brand Medically Necessary: No
+	Generic Name: WARFARIN SODIUM
+

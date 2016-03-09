@@ -1,0 +1,24 @@
+1. Brand Name: BENICAR 40 MG ORAL TABS
+	Instructions: take 1 tablet daily as directed
+	Quantity: 180
+	Refills: 3
+	Duration: 12
+	Brand Medically Necessary: No
+	Generic Name: OLMESARTAN MEDOXOMIL
+
+2. Brand Name: HYDROCHLOROTHIAZIDE 25 MG ORAL TABS
+	Instructions: Take 1 Tablet Daily as Directed
+	Quantity: 90
+	Refills: 3
+	Duration: 90
+	Brand Medically Necessary: Yes
+	Generic Name: HYDROCHLOROTHIAZIDE
+
+3. Brand Name: LISINOPRIL 20 MG ORAL TABS
+	Instructions: Take 1 table daily as directed
+	Quantity: 365
+	Refills: 2
+	Duration: 52
+	Brand Medically Necessary: Yes
+	Generic Name: LISINOPRIL
+
